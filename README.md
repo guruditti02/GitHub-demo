@@ -1,2 +1,3 @@
 # GitHub-demo
-practice guthub
+practice and learn git github
+Auther-Guruditti
